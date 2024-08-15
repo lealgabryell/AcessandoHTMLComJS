@@ -1,0 +1,19 @@
+{
+  "name": "joseanderson_bdcompoo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "csv-parser": "^3.0.0",
+    "joseanderson_bdcompoo": "file:",
+    "jsdom": "^24.1.1",
+    "puppeteer": "^23.1.0"
+  }
+}

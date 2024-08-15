@@ -1,0 +1,40 @@
+[
+   {
+      "id": "1",
+      "nome": "Laptop",
+      "detalhes": [
+         {
+            "nome": "Processador",
+            "valor": 1000
+         },
+         {
+            "nome": "Placa Mãe",
+            "valor": 500
+         },
+         {
+            "nome": "Memória RAM",
+            "valor": 200
+         }
+      ],
+      "preco": 2500
+   },
+   {
+      "id": "2",
+      "nome": "Smartphone",
+      "detalhes": [
+         {
+            "nome": "Tela",
+            "valor": 1500
+         },
+         {
+            "nome": "Bateria",
+            "valor": 500
+         },
+         {
+            "nome": "Câmera",
+            "valor": 100
+         }
+      ],
+      "preco": 1200
+   }
+]
